@@ -27,7 +27,6 @@ Wookie
  OWOUUUW AORA HUW AOHA UROUH OWOAAAW AHAAUAR HUR HOR ORUOUAW RUAOUW
  OUWA WUR OAHO OHOUAAW OWUOAOR OWUOAUR RAOOH
 
-
-
 ```
+To use, copy all the files to a Polyglot directory in the apps/ directory on your Fruit Jam. You'll find a Polyglot icon in the listed apps - click on that and you'll start seeing different Sagan quotes in English and rendered in a pseudo-Alien language text.
 
